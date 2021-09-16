@@ -3,5 +3,9 @@ box-sizing: border-box;
 }
 
 div {
-    background-color: purple ; 
+    background-color: black ; 
+}
+
+.title {
+    color: white;
 }
