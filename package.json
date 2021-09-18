@@ -1,0 +1,23 @@
+{
+  "name": "first_repo",
+  "version": "1.0.0",
+  "description": "Hello World! I am practicing the GitHub basics to become more competent with my repositories.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubcorticalSystems/first_repo.git"
+  },
+  "author": "SubcorticalSystems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubcorticalSystems/first_repo/issues"
+  },
+  "homepage": "https://github.com/SubcorticalSystems/first_repo#readme"
+}
