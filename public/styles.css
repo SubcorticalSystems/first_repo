@@ -1,0 +1,20 @@
+*, *:before, *:after {
+box-sizing: border-box;
+}
+
+html {
+    background-color: blueviolet;
+}
+
+.header {
+    background-color: black; 
+    font-size: 2rem;
+}
+
+.title {
+    color: white;
+}
+
+.body {
+    font-size: 1.5rem;
+}
